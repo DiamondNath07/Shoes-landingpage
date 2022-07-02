@@ -1,0 +1,31 @@
+*,
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans+JP:wght@700&family=Noto+Sans:wght@600;700&family=Poppins:wght@200&display=swap" rel="stylesheet">
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Noto Sans JP', sans-serif;
+  line-height: 1.6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: ;
+}
+
+.container {
+  width: 85%;
+}
